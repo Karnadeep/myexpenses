@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* .button {
+  cursor: pointer;
+  width: 2rem;
+  height: 2.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  text-align: center;
+  background-color: #e53e3e;
+  opacity: 0;
+}
+
+li:hover .button{
+  opacity: 1;
+} */
+
